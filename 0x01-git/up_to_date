@@ -1,1 +1,1 @@
-git add up_to_date git commit -m "Update README.md" git push
+git add update README.md git commit -m "Update README.md" git pull
