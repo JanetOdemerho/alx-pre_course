@@ -1,1 +1,1 @@
-git add update README.md git commit -m "Update README.md" git pull
+git pull
